@@ -1,0 +1,24 @@
+#introduction to python
+
+python is high-level,interpreted,interactive and object oriented-scripting language.
+
+FEATURES OF PYTHON  - easy to learn, read, and maintain
+                      std library, interactive mode,portable,extendable, scalable and gui programming
+
+
+there  some diff in versions of python like......
+python2  eg  >>>print "raunak"
+            >>>raunak
+python3  eg  >>>print ("raunak")
+             >>>raunak
+
+
+it is both scripting as well as programming language
+
+
+power of python - 
+automation, database access, gui debelopment, hw/sw testing ,hacking
+
+
+application of python -
+bittorent, youtube, google(app engine), reddit, pixas, anaconda, trac
