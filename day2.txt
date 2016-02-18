@@ -1,0 +1,19 @@
+my first python code
+
+
+for eg if you have to print "hello world," just simply write 
+
+>>>print "hello world,"                         /input
+>>>hello world,                                 /output
+
+>>>print "instructor raunak garg..."                         /input
+>>>instructor raunak garg...                                 /output
+
+
+>>> x=5
+>>>print x                                     /input
+5                                              /output
+
+>>>type(x)                                     /input
+<type 'int'>                                   /output
+
